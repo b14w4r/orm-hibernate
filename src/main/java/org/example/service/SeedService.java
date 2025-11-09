@@ -19,7 +19,6 @@ public class SeedService {
                 new User("Alice", "alice@example.com"),
                 new User("Bob", "bob@example.com")
             ));
-            System.out.println("Seeded initial users!");
         }
     }
 }
